@@ -19,6 +19,6 @@ class Solution:
 if __name__ == '__main__':
     str = 'asdgfhassfbv'
     # for i in str:
-        # print(i)
+    # print(i)
     s = Solution()
     print(s.lengthOfLongestSubstring(str))
